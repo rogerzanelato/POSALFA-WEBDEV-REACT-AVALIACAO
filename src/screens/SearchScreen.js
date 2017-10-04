@@ -16,8 +16,8 @@ import {
 
 import axios from 'axios';
 
-const key_google = "AIzaSyB02wRkTb1b8kAtdjA5_tuMwegrt6QCJHY"; 
-const key_google_maps = "AIzaSyBIPZTXAXQG64y51Smhg7PB29P5zfu2r9s";
+const key_google = ""; 
+const key_google_maps = "";
 
 const styles = StyleSheet.create({
     overlay: {
