@@ -8,6 +8,7 @@
 # Execução
 Para iniciar o programa basta executar os seguintes comandos no terminal:
 > npm install
+
 > react-native run-android
 
 - É necessário também que no arquivo src/screens/SearchScreen.js seja atribuída uma chave da API do Google Places na constante key_google, e uma chave da API Google Static Maps na constante key_google_maps. 
